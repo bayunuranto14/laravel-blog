@@ -17,6 +17,10 @@
                     {{ __('You are logged in!') }}
                 </div>
             </div>
+
+            <div class="card">
+                
+            </div>
         </div>
     </div>
 </div>
